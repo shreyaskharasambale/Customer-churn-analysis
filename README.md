@@ -5,7 +5,7 @@ memberships. Any organization wants to reduce customer turnover since it's usual
 it is to keep the ones you already have.  
 An online food delivery service needs to identify which of its clients is most likely to stop placing new orders in the near future. 
 The promotional team of the business can develop ways to keep these clients by using this information. 
-3. Data: 
+Data: 
 This dataset was obtained from the Kaggle website  
 Link for the Dataset: https://www.kaggle.com/datasets/shreyaskharasambale/customer-churn-dataset 
 The Dataset comprises of six features, including customer id, order date, food items, restaurant, customer rating, and feedback. 
